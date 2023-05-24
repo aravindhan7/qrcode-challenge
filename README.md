@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -19,13 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/aravindhan7/qrcode-challenge](https://your-solution-url.com)
+- Live Site URL: [https://aravindhan7.github.io/qrcode-challenge/](https://your-live-site-url.com)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [https://aravindhan-portfolio-website.netlify.app/](https://www.your-site.com)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/aravindhan7](https://www.frontendmentor.io/profile/yourusername)
 
